@@ -32,3 +32,6 @@ languages = {
 }
 =end
 
+def reformat_languages(languages)
+  
+end
